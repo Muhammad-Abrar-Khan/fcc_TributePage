@@ -18,5 +18,5 @@ Hi there! I'm a beginner level front-end developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Python, R, Matlab, MySQL...
+HTML, CSS
 
